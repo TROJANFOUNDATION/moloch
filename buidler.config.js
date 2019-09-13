@@ -28,7 +28,7 @@ module.exports = {
       accounts: [ MAINNET_PRIVATE_KEY ],
       deployedContracts: {
         moloch: '0xcc7dcdb700eed457c8180406d7d699877f4eee24',
-        pool: ''
+        pool: '0xcf2Ad8b7094A1b5ebf679d114F9658acD8645488'
       }
     },
     coverage: {
